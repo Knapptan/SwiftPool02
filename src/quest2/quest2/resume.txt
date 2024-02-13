@@ -1,0 +1,30 @@
+# Candidate info
+Petrov Petr Petrovich
+QA
+Male
+29-06-2001
+piter22@gmail.com
+...
+
+# Education
+higher
+2008-2012
+text
+...
+
+# Job experience
+##
+2012-2013
+OOO "Good Company"
+text
+Worked as QA
+##
+2010-2012
+OOO "Bad Company"
+text
+Worked as QA
+...
+
+# Free block
+I'm a QA specialist from head to heels. ...
+...
